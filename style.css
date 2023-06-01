@@ -1,0 +1,192 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bruno+Ace+SC&family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bruno+Ace+SC&family=Lobster&family=Slackside+One&display=swap');
+
+
+body{
+    background-color: #D9AD77  ;
+    margin-bottom: -1%;
+}
+
+
+.cabeça{
+
+    background-color: #D9AD77;
+    align-items: center;
+    height: 10px;
+   
+}
+
+.titulo{
+    background-color:#011126 ;
+    margin-top: -1%;
+    height: 70px;
+    width: 800px;
+    margin-left: 25%;
+}
+
+
+.textotitulo{
+
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Amatic SC', cursive;
+    
+   
+    
+}
+
+.textoa{
+    margin-bottom: -1%;
+    background-color:#011126 ;
+    width: 800px;
+    margin-left: 25%;
+}
+
+.textob{
+    
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+.artigo{
+    text-align: center;
+    width: 800px;
+    height: 800px;
+    margin-left: 25%;
+    display: flex;    
+    background-color: white ;
+    margin-bottom: -1%;
+    margin-top: 10px;
+   
+}
+
+.textoformulario{
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-bottom: 20%;
+    font-size: small;
+   text-align: center;
+}
+
+
+
+.form1{
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    text-align:center;
+    
+    margin-left: 10%;
+
+    font-size: 20px;
+    
+    
+}
+
+
+
+.imgindex{    
+   
+    align-content: center;
+
+    
+    
+    margin-top: 10%;
+   
+    
+
+}
+
+
+
+.pé{
+    margin-bottom: -1%;
+    margin-left: 25%;
+    background-color:#011126;
+    height: 70px;
+    align-content: center;
+    width: 800px;
+}
+
+.textepe{
+
+    margin-top: 10px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.frase1{
+font-family: 'Amatic SC', cursive;
+font-family: 'Bruno Ace SC', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Slackside One', cursive;
+font-size: 22px;
+margin-left: 10% ;
+
+
+}
+
+
+.divphpad{
+    
+    margin-top: 20%;
+    margin-left: 5% ;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.divlinksad{
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 20px;
+    
+    
+}
+
+.imgad{
+
+    margin-top: -23%;
+    margin-left: 30%;
+}
+
+.divphpcon{
+    margin-top: 15%;
+    margin-left: 5% ;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.divlinkscon{
+    margin-top: 15%;
+    font-size: 20px;
+}
+
+.divphpsair{
+    margin-top: 20%;
+    font-size: 20px;
+    margin-left: 3%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.divlinkssair{
+    margin-top: 20%;
+    font-size: 20px;
+    margin-left: 5% ;
+    margin-right: 3%;
+    
+}
+
+.imgsair{
+    margin-top: -27%;
+    margin-left: 30%;
+}
+
+.imgcon{
+
+    margin-top: -27%;
+    margin-left: 30%;
+
+}
